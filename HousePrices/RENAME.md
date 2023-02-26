@@ -1,0 +1,2 @@
+# House Prices prediction
+This is my first data science project since my Machine Learning course in Stockholm University. That is why I decided to solve this easy task together with the help of the following [notebook](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook). This project helped me in recovering my knowledge in data processing and model building.
